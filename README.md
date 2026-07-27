@@ -8,6 +8,26 @@ The project was completed using **Microsoft Excel, SQL, Power BI, and Tableau**.
 
 The purpose of the analysis is to show how healthcare organizations can use data to monitor hospital readmissions, identify high risk areas, compare performance, and support better patient care decisions.
 
+## Data Source
+
+The dataset used for this project is a real-world public hospital readmissions dataset obtained from the **Centers for Medicare & Medicaid Services (CMS)**.
+
+It contains hospital-level information related to the Hospital Readmissions Reduction Program, including:
+
+* Facility name and facility identification number
+* State
+* Medical condition or readmission measure
+* Number of discharges
+* Number of readmissions
+* Excess readmission ratio
+* Expected readmission rate
+* Predicted readmission rate
+* Reporting period
+
+The dataset was cleaned and transformed before being analyzed with Excel, SQL, Power BI, and Tableau.
+
+Data source: **Centers for Medicare & Medicaid Services, Hospital Readmissions Reduction Program dataset**
+
 ## Project Objectives
 
 The project answers the following questions:
